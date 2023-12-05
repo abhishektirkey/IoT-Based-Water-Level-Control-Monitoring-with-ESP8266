@@ -1,3 +1,20 @@
+/* Source Code/Program
+The follow is the complete code for IoT ESP8266 Based Ultrasonic Water Level Monitoring System. The code is written in Arduino IDE.
+
+There are few changes that you need to make before uploading this code to the Esp8266 Board.
+
+From the following lines change the Blynk Authentication Token.
+#define BLYNK_TEMPLATE_ID "***************"
+#define BLYNK_TEMPLATE_NAME "**********************"
+#define BLYNK_AUTH_TOKEN "*************************"
+
+Replace the WiFi SSID and Password from the following lines.
+char ssid[] = "****************";
+char pass[] = "**************";
+
+
+After making these changes, you can now upload the code to the ESP8266 Board. */
+
 #include <Adafruit_SSD1306.h>
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
