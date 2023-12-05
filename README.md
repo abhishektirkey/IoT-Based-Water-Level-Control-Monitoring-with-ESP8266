@@ -2,7 +2,7 @@
 Leveraging IoT technology enables real-time water level monitoring and remote operational control, allowing users to visualize water levels and manage operations efficiently.
 
 
-Components	<br>
+**Components**	<br>
 1	NodeMCU ESP8266 WiFi Module	 <br>
 2	JSN-SR04T Ultrasonic Sensor <br>
 3	0.96" I2C OLED Display	 <br>
