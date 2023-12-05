@@ -5,15 +5,15 @@ Leveraging IoT technology enables real-time water level monitoring and remote op
 The NodeMCU ESP8266 will receive data from the JSN-SR04T Ultrasonic Sensor, display it on the 0.96" I2C OLED Display, and control the AC Water Pump through the 5V Relay Module based on user input from the Push Button Switch. This system is powered by the Hi-Link 220V AC to 5V DC Converter and uses pipes and a Zero PCB Board for construction. <br><br>
 
 # Components	<br>
-1. NodeMCU ESP8266 WiFi Module: Microcontroller for controlling the entire system. <br>
-2. JSN-SR04T Ultrasonic Sensor: Measures the water level in a tank. <br>
-3. 0.96" I2C OLED Display: Shows the water level information clearly. <br>
-4. Hi-Link 220V AC to 5V DC Converter: Provides the necessary power to run the system. <br>
-5. 5V Relay Module: Turns the AC Water Pump on/off based on the system's logic. <br>
-6. Push Button Switch: Allows manual control of the water pump. <br>
-7. AC Water Pump: Pumps water into the tank. <br>
-8. Pipes (2 meters or more): Transport the water from the pump to the tank. <br>
-9. Zero PCB Board: Holds and connects all components physically. <br>
+1. **NodeMCU ESP8266 WiFi Module** : Microcontroller for controlling the entire system. <br>
+2. **JSN-SR04T Ultrasonic Sensor** : Measures the water level in a tank. <br>
+3. **0.96" I2C OLED Display** : Shows the water level information clearly. <br>
+4. **Hi-Link 220V AC to 5V DC Converter** : Provides the necessary power to run the system. <br>
+5. **5V Relay Module** : Turns the AC Water Pump on/off based on the system's logic. <br>
+6. **Push Button Switch** : Allows manual control of the water pump. <br>
+7. **AC Water Pump**: Pumps water into the tank. <br>
+8. **Pipes (2 meters or more)** : Transport the water from the pump to the tank. <br>
+9. **Zero PCB Board** : Holds and connects all components physically. <br>
 
 
 # Circuit Diagram and Connections
